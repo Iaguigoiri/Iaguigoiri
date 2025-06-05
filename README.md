@@ -1,59 +1,49 @@
-Hi there 👋
+## Hi there 👋
+
 I'm Iñigo Aguilera Goiriena, a data scientist and marine scientist passionate about combining environmental science, machine learning, and quantum computing to tackle real-world problems—especially in climate, meteorology, and renewable energy.
 
-🔭 Who am I
+## Who am I
+
 I’m currently working as a Data Science Researcher at Ayesa/Ibermática, implementing Quantum Neural Networks, performing image processing for anomaly detection, and developing predictive models for floating offshore wind turbines. My interdisciplinary background fuses marine sciences, meteorology, and AI.
 
-🌱 Technical Skills
-Languages & Tools:
-Python · MATLAB · Simulink · R · Microsoft Office
+## Technical Skills
+- Languages & Tools: Python · MATLAB · Simulink · R · Microsoft Office
 
-Libraries/Technologies:
-scikit-learn · PyTorch · TensorFlow · Pennylane · Qiskit · Pandas · NumPy · Matplotlib · Seaborn
+- Libraries/Technologies: scikit-learn · PyTorch · TensorFlow · Pennylane · Qiskit · Pandas · NumPy · Matplotlib · Seaborn · keras · OpenCV · openai
 
-Technologies of Interest:
+- Technologies of Interest: Quantum Machine Learning (QML), Time Series Forecasting (LSTM, ARIMA), Image Analysis, Environmental and Climatological Modeling, Remote Sensing and Renewable Energy Analytics
 
-Quantum Machine Learning (QML)
+## Education
 
-Time Series Forecasting (LSTM, ARIMA)
+- Master’s in Mathematical and Computer Engineering – International University of La Rioja (2023–2025)
 
-Image Analysis
+- Master’s in Meteorology and Atmospheric Sciences – ESNECA Business School (2022–2023)
 
-Environmental and Climatological Modeling
+- BSc Hons in Marine Sciences and Oceanography – University of Plymouth, UK (2019–2022)
 
-Remote Sensing and Renewable Energy Analytics
+## Certifications
 
-🎓 Education
-🎓 Master’s in Mathematical and Computer Engineering – International University of La Rioja (2023–2024)
+- IBM Data Science PRofessional Certificate
 
-🌦️ Master’s in Meteorology and Atmospheric Sciences – ESNECA Business School (2022–2023)
+- IBM Machine Learning for Data Science Projects
 
-🌊 BSc Hons in Marine Sciences and Oceanography – University of Plymouth, UK (2019–2022)
+- Foundational MATLAB
 
-💬 Certifications
-IBM Machine Learning for Data Science Projects
+- Programming with Python – UNIR
 
-Foundational MATLAB
+- Cambridge Advanced Certificate (C2)
 
-Programming with Python – UNIR
+## I’m looking to collaborate on...
 
-Cambridge Advanced Certificate (C2)
+Data science projects combining AI/ML or quantum computing related to environmental analysis, meteorology, oceanography, climate modeling, remote sensing or renewable energy systems.
 
-ISA Level 1 Surf Instructor (International)
 
-SSI Open Water Diving (PADI)
+## Languages
 
-NVBLQ – National Beach Lifeguard (UK & EU)
-
-👯 I’m looking to collaborate on...
-Data science projects related to environmental analysis, meteorology, oceanography, climate modeling, and renewable energy systems.
-
-Interdisciplinary research combining AI/ML with remote sensing or quantum computing.
-
-📫 Languages
 🇪🇸 Spanish: Native
 
 🇬🇧 English: Proficiency (C2)
 
-⚡ Fun Fact
+## Fun Fact
+
 I'm also a certified surf instructor and lifeguard, and I’ve worked as a tennis coach and English teacher. The ocean is both my lab and my playground 🌊🏄‍♂️.
