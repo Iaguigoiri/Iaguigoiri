@@ -44,6 +44,6 @@ Data science projects combining AI/ML or quantum computing related to environmen
 
 🇬🇧 English: Proficiency (C2)
 
-## Fun Fact
+## Others
 
-I'm also a certified surf instructor and lifeguard, and I’ve worked as a tennis coach and English teacher. The ocean is both my lab and my playground 🌊🏄‍♂️.
+I'm also a certified surf instructor and lifeguard.
